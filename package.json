@@ -1,0 +1,23 @@
+{
+  "name": "twig-education-task",
+  "version": "1.0.0",
+  "description": "Returns grouped array elements by a divisor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unmaskz/twig-education-task.git"
+  },
+  "keywords": [],
+  "author": "Kieran White <kwhite@myself.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unmaskz/twig-education-task/issues"
+  },
+  "homepage": "https://github.com/unmaskz/twig-education-task#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
